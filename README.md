@@ -1,21 +1,16 @@
-# 🤖 Smart Chatbot Project
+# 📊 Stock Portfolio Tracker
+
+## Description
+An advanced Python project that tracks stock portfolio using real-time data.
 
 ## Features
-- Chat responses
-- Time & Date
-- Google Search
-- Calculator
+- Real-time stock prices
+- Portfolio value calculation
+- CSV export
+- Data visualization
 
-## Technologies Used
-- Python
-- NLTK
+## Installation
+pip install -r requirements.txt
 
-## How to Run
-1. Install requirements:
-   pip install -r requirements.txt
-
-2. Run:
-   python chatbot.py
-
-## Author
-Your Name
+## Run
+python stock_tracker.py
