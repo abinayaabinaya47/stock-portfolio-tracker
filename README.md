@@ -1,2 +1,21 @@
-# stock-portfolio-tracker
-A real-time stock portfolio tracker built using Python and yfinance. It allows users to input stock symbols, calculate total portfolio value, and visualize data using charts.
+# 🤖 Smart Chatbot Project
+
+## Features
+- Chat responses
+- Time & Date
+- Google Search
+- Calculator
+
+## Technologies Used
+- Python
+- NLTK
+
+## How to Run
+1. Install requirements:
+   pip install -r requirements.txt
+
+2. Run:
+   python chatbot.py
+
+## Author
+Your Name
